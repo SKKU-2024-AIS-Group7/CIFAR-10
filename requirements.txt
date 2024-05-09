@@ -7,3 +7,4 @@ black
 flake8
 jupyterlab
 jupyterlab-code-formatter
+tqdm
